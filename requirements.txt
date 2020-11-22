@@ -1,0 +1,4 @@
+matplotlib==3.2.1
+cupy_cuda100==7.3.0
+pandas==0.25.3
+cupy==8.1.0
