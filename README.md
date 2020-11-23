@@ -41,12 +41,20 @@ You can now open the **main.py** file. You will need to transfer the function yo
 
  
 
-Once it's done, all that's left is to set your desired main loop parameters:
+Once it's done, set your desired main loop parameters:
 
 ![alt text](https://i.imgur.com/GbBhu89.png)
 
  
+ 
+Finally, in the **main.py** file, put your parameters in the **allTestFunctionsParam** located inside the **getFuncs** function:
+
+![alt text](https://i.imgur.com/pj1S90q.png)
  
+ 
+ 
+  
+  
  
  
 You can now run the script. Here's an example of output, where the most similar function is n^2 * c, where c = 2:
